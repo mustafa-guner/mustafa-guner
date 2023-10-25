@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently developing projects using **Laravel**
+- 🔭 I’m currently developing projects using **PHP/Laravel**
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me: mustafaguner235@gmail.com
 
