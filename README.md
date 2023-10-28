@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me: mustafaguner235@gmail.com
 
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=true)
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=false)
