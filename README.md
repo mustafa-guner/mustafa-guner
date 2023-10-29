@@ -19,7 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-**Others:**
+**Other Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=postman,gitlab,git)](https://skillicons.dev)
 
