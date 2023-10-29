@@ -9,7 +9,7 @@
 
 **Client Side Technologies:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vuejs,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vuejs,jquery)](https://skillicons.dev)
 
 **Server Side Technologies:**
 
@@ -18,3 +18,8 @@
 **Databases:**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+**Others:**
+
+[![My Skills](https://skillicons.dev/icons?i=postman,gitlab,git)](https://skillicons.dev)
+
