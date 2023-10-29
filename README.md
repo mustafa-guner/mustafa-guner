@@ -13,7 +13,7 @@
 
 **Server Side Technologies:**
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,expressjs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,expressjs)](https://skillicons.dev)
 
 **Databases:**
 
