@@ -15,12 +15,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,expressjs)](https://skillicons.dev)
 
-
 **Databases:**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-
-**Operation System:**
-
-[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
