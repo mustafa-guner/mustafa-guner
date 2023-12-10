@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=30&duration=800&pause=1000&color=5394EF&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;My+name+is+Mustafa+and..;I'm+a+Software+Developer+)](https://git.io/typing-svg)
 
 - 🔭 I am currently developing projects using **PHP/Laravel**
 - 🌱 I am currently learning **Flutter**
