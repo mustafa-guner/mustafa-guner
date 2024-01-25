@@ -8,7 +8,7 @@
 <!--![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=false)-->
 ![YOURNAME github stats](https://github-readme-stats-qjhg.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=false)
 
-**Client Side Technologies**
+**Client Side Technologies:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vuejs,jquery)](https://skillicons.dev)
 
