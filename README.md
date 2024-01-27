@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vuejs,jquery)](https://skillicons.dev)
 
-**Server Side Technologies:**
+**Server Side Technologies:*
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,expressjs)](https://skillicons.dev)
 
