@@ -8,20 +8,8 @@
 <!--![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=false)-->
 ![YOURNAME github stats](https://github-readme-stats-qjhg.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=false)
 
-**Client Side Technologies:**
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vuejs,jquery)](https://skillicons.dev)
-
-**Server Side Technologies:**
-
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,expressjs)](https://skillicons.dev)
-
-**Databases:**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-**Other Tools:**
-
-[![My Skills](https://skillicons.dev/icons?i=postman,gitlab,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vuejs)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,expressjs,jquery,postman)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,gitlab,git,linux,phpstorm)](https://skillicons.dev) <br>
 
 
