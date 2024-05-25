@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=30&duration=800&pause=1000&color=5394EF&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;My+name+is+Mustafa+and..;I'm+a+Software+Developer+)](https://git.io/typing-svg)
 
 - 🔭 I am currently developing projects using **PHP/Laravel**
-- 🌱 I am currently learning **NestJS**
+- 🌱 I am currently trying to improve my skills on **NestJS**
 - 📍 Check out my works on my <a href="https://www.fiverr.com/mustafa_guner" target="_blank">Fiverr account </a>
 - 📫 How to reach me: **mustafaguner235@gmail.com**
 
