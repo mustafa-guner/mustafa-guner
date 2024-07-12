@@ -4,6 +4,7 @@
 - 🔭 I am currently developing projects using **PHP/Laravel**
 - 🌱 I am currently trying to improve my skills on **NestJS**
 - 📍 Check out my works on my <a href="https://www.fiverr.com/mustafa_guner" target="_blank">Fiverr account </a>
+- 📋 Check out my CV via <a href="https://drive.google.com/drive/folders/1_jRcOtjwjzVXVd5Ga9BAEPAuukTLzIin?usp=sharing">link</a>.
 - 📫 How to reach me: **mustafaguner235@gmail.com**
 
 <!--![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=false)-->
