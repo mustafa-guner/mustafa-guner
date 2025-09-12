@@ -14,6 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vuejs,laravel,php,nodejs,expressjs)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=jquery,postman,gitlab,mysql,mongodb,gitlab,git,linux,phpstorm,vscode)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=vs,c#,wpf,oracledb,mssql,devops)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=typescript,dotnet,visualstudio)](https://skillicons.dev) 
 
 
