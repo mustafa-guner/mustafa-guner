@@ -10,7 +10,7 @@
 <!--![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=false)-->
 <!-- ![YOURNAME github stats](https://github-readme-stats-qjhg.vercel.app/api?username=mustafa-guner&show_icons=true&hide_border=false) -->
 
-### Some tools I use:
+### Some tools/technologies I use:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vuejs,laravel,php,nodejs,expressjs)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=jquery,postman,gitlab,mysql,mongodb,gitlab,git,linux,phpstorm,vscode)](https://skillicons.dev) <br>
