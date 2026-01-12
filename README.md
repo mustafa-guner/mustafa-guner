@@ -16,4 +16,5 @@
 [![My Skills](https://skillicons.dev/icons?i=jquery,postman,gitlab,mysql,mongodb,gitlab,git,linux,phpstorm,vscode)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=typescript,dotnet,visualstudio)](https://skillicons.dev) 
 
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
